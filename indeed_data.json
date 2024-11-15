@@ -1,0 +1,23 @@
+{
+    "data": {
+        "total": 1,
+        "count": 1,
+        "offset": 0,
+        "limit": 1000,
+        "desc": false,
+        "items": [
+            {
+                "id": "hMvNSpz3JnHgl5jkh",
+                "createdAt": "2023-03-02T19:58:31.579Z",
+                "modifiedAt": "2024-10-19T21:52:53.305Z",
+                "name": "indeed-scraper",
+                "username": "misceres",
+                "title": "Indeed Scraper",
+                "stats": {
+                    "totalRuns": 2,
+                    "lastRunStartedAt": "2024-10-24T14:28:55.356Z"
+                }
+            }
+        ]
+    }
+}
